@@ -1,8 +1,8 @@
 import Array.Array;
 
+/**
+ * Main class
+ */
 public class Main {
-    public static void main(String[] args) {
-        Array a=new Array(9);
-        System.out.println();
-    }
+
 }
